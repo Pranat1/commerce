@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controllers",
+    "\\helpers",
+    "\\models",
+    "\\routes",
+    "\\validator"
+  ],
+  "SelectedNode": "\\controllers\\product.js",
+  "PreviewInSolutionExplorer": false
+}
